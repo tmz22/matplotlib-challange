@@ -1,4 +1,4 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib Home - The Power of Plots
 
 ## Background
 
