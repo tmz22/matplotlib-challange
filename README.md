@@ -1,6 +1,6 @@
 # Matplotlib - The Power of Plots
 
-## Back
+## Backg
 
 What good is data without a good plot to tell the story?
 
