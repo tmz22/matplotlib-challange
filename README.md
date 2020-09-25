@@ -74,4 +74,4 @@ Here are some final considerations:
 
 ### Copyright
 
-Trilogy Education Services © 2020. All Rights Reserv
+Trilogy Education Services © 2020. All Rights Reserve
