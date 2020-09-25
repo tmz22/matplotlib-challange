@@ -1,6 +1,6 @@
 # Matplotlib - The Power of Plots
 
-## Backgrou
+## Backgroun
 
 What good is data without a good plot to tell the story?
 
